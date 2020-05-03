@@ -187,7 +187,7 @@ Licensed to the Apache Software Foundation (ASF)
    | dereferenced during the build process to configure the cactus plugin.
    |
    | As noted above, profiles can be activated in a variety of ways. One way - the activeProfiles
-   | section of this document (settings.xml) - will be discussed later. Another way essentially
+   | section of this document (settings.xml) - will be discussbvkvb,ed later. Another way essentially
    | relies on the detection of a system property, either matching a particular value for the property,
    | or merely testing its existence. Profiles can also be activated by JDK version prefix, where a 
    | value of '1.4' might activate a profile when the build is executed on a JDK version of '1.4.2_07'.
