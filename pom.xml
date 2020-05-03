@@ -123,7 +123,7 @@
 <distributionManagement>
     <repository>
         <id>Nexus</id>
-        <url>http://ec2-52-221-179-243.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/Nexus/</url>
+        <url>http://http://ec2-54-191-93-44.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/hkota09/</url>
     </repository>
 </distributionManagement>
     
