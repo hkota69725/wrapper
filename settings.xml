@@ -49,7 +49,7 @@ Licensed to the Apache Software Foundation (ASF)
 
   <!-- offline
    | Determines whether maven should attempt to connect to the network when executing a build.
-   | This will have an effect on artifact downloads, artifact deployment, and others.
+   | This will have an effect on artifact downloads, artifact deployment, and others.shjmcahksVJB<Z
    |
    | Default: false
   <offline>false</offline>
