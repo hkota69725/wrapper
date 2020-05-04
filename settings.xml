@@ -11,7 +11,7 @@ Licensed to the Apache Software Foundation (ASF)
  |  1. User Level. This settings.xml file provides configuration for a single user, 
  |                 and is normally provided in ${user.home}/.m2/settings.xml.
  |
- |                 NOTE: This location can be overridden with the CLI option:
+ |                 NOTE: This location can be overridden with the CLI option:vdhbjszcajhbs
  |		adding some thung to check how the build works
  |                 -s /path/to/user/settings.xml
  |
