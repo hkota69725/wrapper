@@ -12,6 +12,7 @@ Licensed to the Apache Software Foundation (ASF)
  |                 and is normally provided in ${user.home}/.m2/settings.xml.
  |
  |                 NOTE: This location can be overridden with the CLI option:
+ |		adding some thung to check how the build works
  |                 -s /path/to/user/settings.xml
  |
  |  2. Global Level. This settings.xml file provides configuration for all Maven maven
