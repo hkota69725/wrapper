@@ -123,7 +123,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>hkota09</id>
-    <url>http://ec2-54-191-93-44.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/hkota09</url>
+    <url>http://ec2-34-219-125-131.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/hkota09</url>
   </snapshotRepository>
 </distributionManagement>
     
