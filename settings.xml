@@ -11,8 +11,7 @@ Licensed to the Apache Software Foundation (ASF)
  |  1. User Level. This settings.xml file provides configuration for a single user, 
  |                 and is normally provided in $fcygvjbhknfchgvjbkn{user.home}/.m2/settings.xml.
  |
- |                 NOTE: This fcgjhvbmnkhjvkb,nlocation can be overridden with the CLI option:
- |hkjnkmihbjknl,mkhjbn,m.mkbjn.m
+ |                 NOTE: This location can be overridden with the CLI option:
  |                 -s /path/to/user/settings.xml
  |
  |  2. Global Level. This settings.xml file provides configuration for all Maven
